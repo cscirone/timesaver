@@ -5,6 +5,7 @@
   "main": "index.js",
   "devDependencies": {
     "@chromatic-com/storybook": "^3.2.6",
+    "@storybook/addon-docs": "^8.6.7",
     "@storybook/addon-essentials": "^8.6.7",
     "@storybook/addon-interactions": "^8.6.7",
     "@storybook/addon-onboarding": "^8.6.7",

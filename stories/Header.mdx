@@ -1,0 +1,11 @@
+import { Canvas, Meta, Controls } from '@storybook/blocks';
+import * as HeaderStories from './Header.stories';
+
+<Meta of={HeaderStories} />
+
+# Header
+
+insert text here 
+
+<Canvas of={HeaderStories.LoggedIn} sourceState='shown' />
+<Controls of={HeaderStories.LoggedIn} />
